@@ -13,6 +13,8 @@
 
 - ⚡ The best thing I have ever learned is **“how to learn!”**
 
+- 📖 I am Polyglot, who speaks 5 languages (English, Spanish, Dutch, Indonesian, French)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nayobaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayobaez" height="30" width="40" /></a>
