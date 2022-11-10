@@ -13,7 +13,7 @@
 
 - ⚡ The best thing I have ever learned is **“how to learn!”**
 
-- 📖 I am Polyglot, who speaks 5 languages (English, Spanish, Dutch, Indonesian, French)
+- 📖 I am Polyglot **(Dutch, English & Spanish)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
