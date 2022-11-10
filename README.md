@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently upgrading **my JS & React.js skills**
 
-- ⚡ The best thing I have ever learned is **“how to learn!”**
+- 📖 The best thing I have ever learned is **“how to learn!”**
 
-- 📖 I am Polyglot who speaks **Dutch, English & Spanish**
+- 💡 I am Polyglot who speaks **Dutch, English & Spanish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
