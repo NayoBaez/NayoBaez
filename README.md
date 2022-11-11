@@ -41,13 +41,11 @@
 
 </details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nayobaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayobaez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nayobaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayobaez" height="30" width="40" /></a>
-<a href="https://fb.com/nayobaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayobaez" height="30" width="40" /></a>
-<a href="https://instagram.com/nayobaez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayobaez" height="30" width="40" /></a>
-</p>
+## 🔗 Let's Connect
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nayobaez.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nayobaezfeliz)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nayobaez)
+[![instagram](https://img.shields.io/badge/instagram-DE3C7C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nayobaez)
 
 
 
