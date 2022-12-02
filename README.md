@@ -1,13 +1,13 @@
 [![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://nayobaez.com)
 <h1 align="center">Hi 👋, I'm Naomi</h1>
-<h3 align="center">A React Front-End Developer</h3>
+<h3 align="center">A React.js Front-End Developer</h3>
 <img align="right" alt="girlcoding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayobaez&label=Profile%20views&color=0e75b6&style=flat" alt="nayobaez"/> </p>
 
 <p align="left"> <a href="https://twitter.com/nayobaez" target="blank"><img src="https://img.shields.io/twitter/follow/nayobaez?logo=twitter&style=for-the-badge" alt="nayobaez" /></a> </p>
 
-- 🔭 I’m currently working on **Passenger Counter**
+- 🔭 I’m currently working on **Google Chrome Extension**
 
 - 🌱 I’m currently upgrading **my JS & React.js skills**
 
