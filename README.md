@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nayobaez" target="blank"><img src="https://img.shields.io/twitter/follow/nayobaez?logo=twitter&style=for-the-badge" alt="nayobaez" /></a> </p>
 
-- 🔭 I’m currently working on **Google Chrome Extension**
+- 🫶🏽 I’m currently volunteering @ **Chingu & OrcaSound**
+
+- 🔭 I’m currently working on **Oracamap & OrcaHome**
+
+- 💕 Would love to collaborate on **Google Chrome Extension**
 
 - 🌱 I’m currently upgrading **my JS & React.js skills**
 
