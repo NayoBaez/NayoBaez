@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nayobaez" target="blank"><img src="https://img.shields.io/twitter/follow/nayobaez?logo=twitter&style=for-the-badge" alt="nayobaez" /></a> </p>
 
-- 🫶🏽 I’m currently volunteering @ **Chingu & OrcaSound**
+- 🫶🏽 I’m currently volunteering @ **Democracylab & OrcaSound**
 
-- 🔭 I’m currently working on **Oracamap & OrcaHome**
+- 🔭 I’m currently working on **OrcaHome & DemocracyLab Events Page**
 
 - 💕 Would love to collaborate on **Google Chrome Extension**
 
-- 🌱 I’m currently upgrading **my JS & React.js skills**
+- 🌱 I’m currently upgrading **My Design & React.js skills**
 
 - 🧠 The best thing I have ever learned is **“how to learn!”**
 
