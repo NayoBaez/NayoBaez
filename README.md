@@ -9,7 +9,7 @@
 
 - 🫶🏽 I’m currently volunteering @ **Democracylab & OrcaSound**
 
-- 🔭 I’m currently working on **OrcaHome & DemocracyLab Events Page**
+- 🔭 I’m currently working on **DemocracyLab Events Page**
 
 - 💕 Would love to collaborate on **Google Chrome Extension**
 
